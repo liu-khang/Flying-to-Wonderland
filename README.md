@@ -1,6 +1,6 @@
 # Flying-to-Wonderland
 
-The goal of this project is to synchronize threads (passenger, kiosk-clerk, flight attendant, and clock threads) in the program using semaphores and operations on semaphores according to the story below.
+This project demonstrates the utilization of multithreading in programs. In this specific project I was able to use a single set of code for several processes that are at different stages of execution, thus eliminating the need to have duplicate copies of the program running at the same time.
 
 Passengers of Flight CS-340 to Purell-Wonderland, NY arrive at the airport 3 hours before departure (use
 sleep(random_time) to simulate arrival). Upon their arrival, they go straight to the check-in counter to
