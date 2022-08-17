@@ -1,6 +1,6 @@
 # Flying-to-Wonderland
 
-The goal of this project is to synchornize threads (passenger, kiosk-clerk, flight attendant, and clock threads) in the program using semaphores and operations on semaphores according to the story below.
+The goal of this project is to synchronize threads (passenger, kiosk-clerk, flight attendant, and clock threads) in the program using semaphores and operations on semaphores according to the story below.
 
 Passengers of Flight CS-340 to Purell-Wonderland, NY arrive at the airport 3 hours before departure (use
 sleep(random_time) to simulate arrival). Upon their arrival, they go straight to the check-in counter to
